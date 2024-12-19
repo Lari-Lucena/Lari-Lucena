@@ -2,7 +2,7 @@
 
 ![Lari-Lucena GitHub stats](https://github-readme-stats.vercel.app/api?username=Lari-Lucena&show_icons=true&theme=dracula)
 
-![Lari-Lucena GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lari-Lucena&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lari-Lucena&layout=compact)
 
 ## Tecnologias que eu uso no meu dia a dia
 
