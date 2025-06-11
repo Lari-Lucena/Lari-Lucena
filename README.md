@@ -3,7 +3,7 @@ Sou **Engenheira de Software** e resido em **São Paulo - SP** 🖐️
 
 <div align="center">
   
-![Lari-Lucena GitHub stats](https://github-readme-stats.vercel.app/api?username=Lari-Lucena&show_icons=true&theme=solarized-light)
+![Lari-Lucena GitHub stats](https://github-readme-stats.vercel.app/api?username=Lari-Lucena&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lari-Lucena&layout=compact&theme=merko)
 
 </div>
