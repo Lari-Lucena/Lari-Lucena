@@ -1,5 +1,4 @@
 ### Olá! Meu nome é Larissa. Sou Engenheira de Software e resido em São Paulo - SP 🖐️
-<br><br/>
 ![Lari-Lucena GitHub stats](https://github-readme-stats.vercel.app/api?username=Lari-Lucena&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lari-Lucena)
