@@ -15,13 +15,4 @@
        <img aling="center" alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </div><br/>
 
-## Ferramentas que eu uso no meu dia a dia
-
-<div style="display: inline_block"><br/>
-    <img aling="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-     <img aling="center" alt="Intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-      <img aling="center" alt="" src="">
-       <img aling="center" alt="" src="">
-</div><br/><br/>
-
 Codifique com paixão, construa com propósito.
