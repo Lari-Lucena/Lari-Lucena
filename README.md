@@ -1,4 +1,4 @@
-### Olá! Eu sou a Larissa Lucena 🖐️
+### Olá! Meu nome é Larissa. Sou Engenheira de Software e moro em São Paulo - SP 🖐️
 
 ![Lari-Lucena GitHub stats](https://github-readme-stats.vercel.app/api?username=Lari-Lucena&show_icons=true&theme=dracula)
 
